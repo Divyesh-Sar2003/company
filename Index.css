@@ -1,0 +1,92 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+/*header section start*/
+.logo{
+    height: 30px;
+    width: 30px;
+    background-color: darkslategray;
+    margin-left: 110px;
+    margin-top: 50px;
+}
+#head{
+    margin-left: 50px;
+    color: orange;
+}
+.box1{
+    position: absolute;
+    line-height: 1.8px;
+    padding-top: 50px;
+    border-bottom-left-radius: 120px;
+    border-bottom-right-radius: 120px;
+    text-align: center;
+    height: 250px;
+    width: 220px;
+    color: white;
+    background-color: darkslategray;
+    margin-left: 730px;   
+}
+.emp_img{
+    width: 900px;
+    position: absolute;
+}
+/*header section end*/
+/*main section start*/
+section{
+    margin-top: 688px;
+}
+.main_content_header{
+    color: darkslategray;
+    background-color: blue;
+}
+h1{
+    color: coral;
+    font-size:50px;
+    text-align: center;
+}
+h2{
+    padding: 30px;
+    size: 10px;   
+    color: darkslategray;
+    text-align: center;
+}
+.no{
+    color: darkslategray;
+    text-align: left;
+    width: 200px;
+}
+.a{
+    color: darkslategray;
+    font-size: large;
+}
+.about_head{
+    color: white;
+    text-align: center;
+    height: px;
+}
+.about{
+    background-color: darkslategray;
+    color: white;
+    padding: 15px;
+}
+.about_lorem{
+    justify-content: center;
+}
+.contact_us{
+    background-color: coral;
+    padding: 10px;
+}
+.example{
+    text-align: center;
+    background-color: lightgray;
+    padding: 30px;
+}
+/*main section end*/
+
+/*footer section start */
+.hr{
+    height: 10px;
+  background-color: darkorange;
+}
+/*footer section end */
